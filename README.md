@@ -31,3 +31,7 @@ User input and output formatting
 ## Output
 
 Task 1
+
+![Image](https://github.com/user-attachments/assets/b0255376-eb0f-43a0-b39d-54c946c5c016)
+
+Task 2
